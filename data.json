@@ -1,7 +1,7 @@
 {
  "meta": {
   "campaign": "CGP · Collecte avis IRPP",
-  "generated_at": "2026-08-10T14:27:33.580316+00:00",
+  "generated_at": "2026-08-10T14:42:47.001602+00:00",
   "collected": true,
   "source": "HubSpot · appartenance aux listes statiques, intersections calculées côté portail",
   "primary_axis": "cohort",
@@ -23,7 +23,8 @@
    "key": "docs",
    "label": "Documents reçus",
    "formula": "avis + decla",
-   "target": 1600
+   "target": 1600,
+   "target_note": "Compteur cumulatif : l'objectif de 1600 couvre les viviers actuels ET à venir. Il n'est pas rapporté au seul vivier déjà ciblé. Chaque nouveau batch ajouté à cette config fait progresser le compteur."
   }
  ],
  "dedup": {
