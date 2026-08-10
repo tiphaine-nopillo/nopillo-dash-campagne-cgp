@@ -1,0 +1,97 @@
+{
+ "_doc": "Config de la campagne. Une cellule = une liste STATIQUE + son audience et sa version. Mapping explicite volontaire : les titres de listes n'ont pas d'ordre de tokens stable. Ajouter une cohorte = ajouter un bloc ici, aucune ligne de code à toucher.",
+ "campaign": "CGP · Collecte avis IRPP",
+ "primary_axis": "cohort",
+ "kpis": [
+  {
+   "key": "avis",
+   "label": "Avis d'impôt",
+   "list": "14309"
+  },
+  {
+   "key": "decla",
+   "label": "Déclarations de revenus",
+   "list": "14358"
+  },
+  {
+   "key": "docs",
+   "label": "Documents reçus",
+   "formula": "avis + decla",
+   "target": 1600,
+   "target_note": "Compteur cumulatif : l'objectif de 1600 couvre les viviers actuels ET à venir. Il n'est pas rapporté au seul vivier déjà ciblé. Chaque nouveau batch ajouté à cette config fait progresser le compteur."
+  }
+ ],
+ "target_initial": {
+  "label": "Objectif initial",
+  "metric": "avis",
+  "value": 400
+ },
+ "cohorts": [
+  {
+   "id": "2026-07-25",
+   "label": "Batch du 25 juillet 2026",
+   "status": "TERMINE",
+   "sequences": [
+    "835429574"
+   ],
+   "cells": [
+    {
+     "list_id": "14359",
+     "audience": "Nouveaux clients",
+     "version": "A",
+     "list_name": "OPS x CGP - Campagne Version A Nouveaux clients - 25 juillet 2026"
+    },
+    {
+     "list_id": "14360",
+     "audience": "Nouveaux clients",
+     "version": "B",
+     "list_name": "OPS x CGP - Campagne Version B Nouveaux clients - 25 juillet 2026"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-01",
+   "label": "Batch du 1er août 2026",
+   "status": "TERMINE",
+   "sequences": [
+    "835657914",
+    "839517396"
+   ],
+   "cells": [
+    {
+     "list_id": "14289",
+     "audience": "Nouveaux clients",
+     "version": "A",
+     "list_name": "[OPS] CGP Campagne Avis IRPP - Nouveaux clients version A - Batch 1er Août 2026"
+    },
+    {
+     "list_id": "14290",
+     "audience": "Déjà clients",
+     "version": null,
+     "list_name": "[OPS] - CGP Campagne Avis IRPP - Déjà clients - Batch 1er Août 2026"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-08",
+   "label": "Batch du 8 août 2026",
+   "status": "EN_COURS",
+   "status_note": "Deux étapes de séquence restent à envoyer. Les chiffres vont encore monter : cette cohorte est exclue des comparaisons entre itérations. Passer le statut à TERMINE quand la séquence est terminée.",
+   "sequences": [
+    "839517396"
+   ],
+   "cells": [
+    {
+     "list_id": "14370",
+     "audience": "Déjà clients",
+     "version": "A",
+     "list_name": "[OPS] - CGP Campagne Avis IRPP - Déjà clients - version A - Batch 8 Août 2026"
+    }
+   ]
+  }
+ ],
+ "notes": {
+  "attribution": "Documents rattachés par intersection entre les listes de cohorte et les listes de documents reçus. Attribution par appartenance, SANS date : un « déjà client » ayant transmis son avis avant la campagne est compté. Surestimation probable sur l'audience Déjà clients.",
+  "objectif": "Objectif 1 (initial) : 400 avis d'impôt, dépassé. Objectif 2 : 1600 documents au global, cumulatif sur l'ensemble de la campagne, batchs futurs inclus."
+ }
+}
