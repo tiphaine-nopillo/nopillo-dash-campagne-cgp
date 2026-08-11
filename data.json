@@ -1,7 +1,7 @@
 {
  "meta": {
   "campaign": "CGP · Collecte avis IRPP",
-  "generated_at": "2026-08-11T06:31:40.984373+00:00",
+  "generated_at": "2026-08-11T08:40:26.685461+00:00",
   "collected": true,
   "source": "HubSpot · appartenance aux listes statiques, intersections calculées côté portail",
   "primary_axis": "cohort",
@@ -84,8 +84,8 @@
    "id": "2026-08-01",
    "label": "Batch du 1er août 2026",
    "status": "PARTIEL",
-   "active": 289,
-   "status_note": "289 contact(s) encore en séquence sur cette cohorte, mais la cellule Nouveaux clients a fini d'envoyer et alimente déjà la référence.",
+   "active": 288,
+   "status_note": "288 contact(s) encore en séquence sur cette cohorte, mais la cellule Nouveaux clients a fini d'envoyer et alimente déjà la référence.",
    "sequences": [
     "835657914",
     "839517396"
@@ -109,7 +109,7 @@
      "audience": "Déjà clients",
      "version": null,
      "enrolled": 530,
-     "active": 289,
+     "active": 288,
      "avis": 168,
      "decla": 8,
      "docs": 176,
@@ -121,8 +121,8 @@
    "id": "2026-08-08",
    "label": "Batch du 8 août 2026",
    "status": "EN_COURS",
-   "active": 743,
-   "status_note": "743 contact(s) encore en séquence sur cette cohorte. Les chiffres vont encore monter.",
+   "active": 740,
+   "status_note": "740 contact(s) encore en séquence sur cette cohorte. Les chiffres vont encore monter.",
    "sequences": [
     "839517396"
    ],
@@ -133,7 +133,7 @@
      "audience": "Déjà clients",
      "version": "A",
      "enrolled": 1000,
-     "active": 743,
+     "active": 740,
      "avis": 86,
      "decla": 5,
      "docs": 91,
