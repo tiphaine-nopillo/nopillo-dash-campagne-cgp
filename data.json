@@ -1,7 +1,7 @@
 {
  "meta": {
   "campaign": "CGP · Collecte avis IRPP",
-  "generated_at": "2026-08-11T08:40:26.685461+00:00",
+  "generated_at": "2026-08-11T09:52:52.664937+00:00",
   "collected": true,
   "source": "HubSpot · appartenance aux listes statiques, intersections calculées côté portail",
   "primary_axis": "cohort",
@@ -29,8 +29,8 @@
   }
  ],
  "dedup": {
-  "contacts": 2230,
-  "avis": 546,
+  "contacts": 2082,
+  "avis": 545,
   "decla": 48
  },
  "portfolio": {
@@ -121,22 +121,22 @@
    "id": "2026-08-08",
    "label": "Batch du 8 août 2026",
    "status": "EN_COURS",
-   "active": 740,
-   "status_note": "740 contact(s) encore en séquence sur cette cohorte. Les chiffres vont encore monter.",
+   "active": 726,
+   "status_note": "726 contact(s) encore en séquence sur cette cohorte. Les chiffres vont encore monter.",
    "sequences": [
     "839517396"
    ],
    "cells": [
     {
-     "list_id": "14370",
-     "list_name": "[OPS] - CGP Campagne Avis IRPP - Déjà clients - version A - Batch 8 Août 2026",
+     "list_id": "14379",
+     "list_name": "[OPS] - V2 Shoot Campagnes CGP - Collecte Avis Imposition - 8er Août 2026 (batch final)",
      "audience": "Déjà clients",
      "version": "A",
-     "enrolled": 1000,
-     "active": 740,
-     "avis": 86,
+     "enrolled": 851,
+     "active": 726,
+     "avis": 85,
      "decla": 5,
-     "docs": 91,
+     "docs": 90,
      "status": "EN_COURS"
     }
    ]
