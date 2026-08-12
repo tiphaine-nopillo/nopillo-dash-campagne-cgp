@@ -1,13 +1,13 @@
 {
  "meta": {
   "campaign": "CGP · Collecte avis IRPP",
-  "generated_at": "2026-08-11T10:07:11.461121+00:00",
+  "generated_at": "2026-08-12T09:46:25.220371+00:00",
   "collected": true,
   "source": "HubSpot · appartenance aux listes statiques, intersections calculées côté portail",
   "primary_axis": "cohort",
   "status_source": "Statut dérivé automatiquement de contact.hs_sequences_is_enrolled, par cellule. Aucune saisie manuelle.",
   "attribution_note": "Documents rattachés par intersection entre les listes de cohorte et les listes de documents reçus. Attribution par appartenance, SANS date : un « déjà client » ayant transmis son avis avant la campagne est compté. Surestimation probable sur l'audience Déjà clients.",
-  "overlap_note": "Les cohortes se chevauchent : un même contact a pu être ciblé dans plusieurs batchs. La somme des cellules dépasse l'union réelle de 77 documents, soit 12.8 %. Le niveau 1 utilise l'union dédupliquée, jamais la somme."
+  "overlap_note": "Les cohortes se chevauchent : un même contact a pu être ciblé dans plusieurs batchs. La somme des cellules dépasse l'union réelle de 77 documents, soit 12.5 %. Le niveau 1 utilise l'union dédupliquée, jamais la somme."
  },
  "kpis": [
   {
@@ -30,12 +30,12 @@
  ],
  "dedup": {
   "contacts": 2082,
-  "avis": 553,
-  "decla": 48
+  "avis": 564,
+  "decla": 50
  },
  "portfolio": {
-  "avis": 573,
-  "decla": 61
+  "avis": 584,
+  "decla": 63
  },
  "target": 1600,
  "target_initial": {
@@ -47,9 +47,9 @@
   {
    "id": "2026-07-25",
    "label": "Batch du 25 juillet 2026",
-   "status": "TERMINE",
-   "active": 0,
-   "status_note": null,
+   "status": "PARTIEL",
+   "active": 1,
+   "status_note": "1 contact(s) encore en séquence sur cette cohorte, mais la cellule Nouveaux clients a fini d'envoyer et alimente déjà la référence.",
    "sequences": [
     "835429574"
    ],
@@ -72,20 +72,20 @@
      "audience": "Nouveaux clients",
      "version": "B",
      "enrolled": 197,
-     "active": 0,
-     "avis": 91,
+     "active": 1,
+     "avis": 92,
      "decla": 12,
-     "docs": 103,
-     "status": "TERMINE"
+     "docs": 104,
+     "status": "EN_COURS"
     }
    ]
   },
   {
    "id": "2026-08-01",
    "label": "Batch du 1er août 2026",
-   "status": "PARTIEL",
-   "active": 288,
-   "status_note": "288 contact(s) encore en séquence sur cette cohorte, mais la cellule Nouveaux clients a fini d'envoyer et alimente déjà la référence.",
+   "status": "EN_COURS",
+   "active": 281,
+   "status_note": "281 contact(s) encore en séquence sur cette cohorte. Les chiffres vont encore monter.",
    "sequences": [
     "835657914",
     "839517396"
@@ -97,11 +97,11 @@
      "audience": "Nouveaux clients",
      "version": "A",
      "enrolled": 388,
-     "active": 0,
-     "avis": 191,
-     "decla": 24,
-     "docs": 215,
-     "status": "TERMINE"
+     "active": 4,
+     "avis": 192,
+     "decla": 25,
+     "docs": 217,
+     "status": "EN_COURS"
     },
     {
      "list_id": "14290",
@@ -109,10 +109,10 @@
      "audience": "Déjà clients",
      "version": null,
      "enrolled": 530,
-     "active": 288,
-     "avis": 170,
+     "active": 277,
+     "avis": 171,
      "decla": 8,
-     "docs": 178,
+     "docs": 179,
      "status": "EN_COURS"
     }
    ]
@@ -121,8 +121,8 @@
    "id": "2026-08-08",
    "label": "Batch du 8 août 2026",
    "status": "EN_COURS",
-   "active": 725,
-   "status_note": "725 contact(s) encore en séquence sur cette cohorte. Les chiffres vont encore monter.",
+   "active": 720,
+   "status_note": "720 contact(s) encore en séquence sur cette cohorte. Les chiffres vont encore monter.",
    "sequences": [
     "839517396"
    ],
@@ -133,10 +133,10 @@
      "audience": "Déjà clients",
      "version": "A",
      "enrolled": 851,
-     "active": 725,
-     "avis": 88,
-     "decla": 5,
-     "docs": 93,
+     "active": 720,
+     "avis": 96,
+     "decla": 6,
+     "docs": 102,
      "status": "EN_COURS"
     }
    ]
