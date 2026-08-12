@@ -13,7 +13,7 @@
    "target": 1600,
    "target_note": "Compteur cumulatif : l'objectif de 1600 couvre les viviers actuels ET à venir. Il n'est pas rapporté au seul vivier déjà ciblé. Chaque nouveau batch ajouté à cette config fait progresser le compteur."
   }
- ],
+ ]
  "target_initial": {
   "label": "Objectif initial",
   "metric": "avis",
