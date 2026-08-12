@@ -2,17 +2,10 @@
  "_doc": "Config de la campagne. Une cellule = une liste STATIQUE + son audience et sa version. Mapping explicite volontaire : les titres de listes n'ont pas d'ordre de tokens stable. Ajouter une cohorte = ajouter un bloc ici, aucune ligne de code à toucher.",
  "campaign": "CGP · Collecte avis IRPP",
  "primary_axis": "cohort",
- "kpis": [
-  {
-   "key": "avis",
-   "label": "Avis d'impôt",
-   "list": "14309"
-  },
-  {
-   "key": "decla",
-   "label": "Déclarations de revenus",
-   "list": "14358"
-  },
+ {
+ "key": "non_detectes", 
+ "label": "Reçus hors détection n8n",
+ "list": "14385"},
   {
    "key": "docs",
    "label": "Documents reçus",
