@@ -1,13 +1,13 @@
 {
  "meta": {
   "campaign": "CGP · Collecte avis IRPP",
-  "generated_at": "2026-08-12T16:45:28.702454+00:00",
+  "generated_at": "2026-08-13T09:46:33.996162+00:00",
   "collected": true,
   "source": "HubSpot · appartenance aux listes statiques, intersections calculées côté portail",
   "primary_axis": "cohort",
   "status_source": "Statut dérivé automatiquement de contact.hs_sequences_is_enrolled, par cellule. Aucune saisie manuelle.",
   "attribution_note": "Documents rattachés par intersection entre les listes de cohorte et les listes de documents reçus. Attribution par appartenance, SANS date : un « déjà client » ayant transmis son avis avant la campagne est compté. Surestimation probable sur l'audience Déjà clients.",
-  "overlap_note": "Les cohortes se chevauchent : un même contact a pu être ciblé dans plusieurs batchs. La somme des cellules dépasse l'union réelle de 88 documents, soit 12.1 %. Le niveau 1 utilise l'union dédupliquée, jamais la somme."
+  "overlap_note": "Les cohortes se chevauchent : un même contact a pu être ciblé dans plusieurs batchs. La somme des cellules dépasse l'union réelle de 88 documents, soit 11.7 %. Le niveau 1 utilise l'union dédupliquée, jamais la somme."
  },
  "kpis": [
   {
@@ -38,12 +38,12 @@
   "contacts": 2230,
   "avis": 583,
   "decla": 54,
-  "non_detectes": 90
+  "non_detectes": 113
  },
  "portfolio": {
   "avis": 603,
   "decla": 70,
-  "non_detectes": 98
+  "non_detectes": 123
  },
  "target": 1600,
  "target_initial": {
@@ -55,9 +55,9 @@
   {
    "id": "2026-07-25",
    "label": "Batch du 25 juillet 2026",
-   "status": "EN_COURS",
-   "active": 2,
-   "status_note": "2 contact(s) encore en séquence sur cette cohorte. Les chiffres vont encore monter.",
+   "status": "TERMINE",
+   "active": 0,
+   "status_note": null,
    "sequences": [
     "835429574"
    ],
@@ -68,12 +68,12 @@
      "audience": "Nouveaux clients",
      "version": "A",
      "enrolled": 198,
-     "active": 1,
+     "active": 0,
      "avis": 81,
      "decla": 8,
      "non_detectes": 13,
      "docs": 102,
-     "status": "EN_COURS"
+     "status": "TERMINE"
     },
     {
      "list_id": "14360",
@@ -81,21 +81,21 @@
      "audience": "Nouveaux clients",
      "version": "B",
      "enrolled": 197,
-     "active": 1,
+     "active": 0,
      "avis": 93,
      "decla": 12,
      "non_detectes": 16,
      "docs": 121,
-     "status": "EN_COURS"
+     "status": "TERMINE"
     }
    ]
   },
   {
    "id": "2026-08-01",
    "label": "Batch du 1er août 2026",
-   "status": "EN_COURS",
-   "active": 15,
-   "status_note": "15 contact(s) encore en séquence sur cette cohorte. Les chiffres vont encore monter.",
+   "status": "PARTIEL",
+   "active": 20,
+   "status_note": "20 contact(s) encore en séquence sur cette cohorte, mais la cellule Nouveaux clients a fini d'envoyer et alimente déjà la référence.",
    "sequences": [
     "835657914",
     "839517396"
@@ -107,12 +107,12 @@
      "audience": "Nouveaux clients",
      "version": "A",
      "enrolled": 388,
-     "active": 4,
+     "active": 0,
      "avis": 194,
      "decla": 25,
-     "non_detectes": 30,
-     "docs": 249,
-     "status": "EN_COURS"
+     "non_detectes": 31,
+     "docs": 250,
+     "status": "TERMINE"
     },
     {
      "list_id": "14290",
@@ -120,11 +120,11 @@
      "audience": "Déjà clients",
      "version": null,
      "enrolled": 530,
-     "active": 11,
+     "active": 20,
      "avis": 174,
      "decla": 9,
-     "non_detectes": 24,
-     "docs": 207,
+     "non_detectes": 35,
+     "docs": 218,
      "status": "EN_COURS"
     }
    ]
@@ -133,8 +133,8 @@
    "id": "2026-08-08",
    "label": "Batch du 8 août 2026",
    "status": "EN_COURS",
-   "active": 710,
-   "status_note": "710 contact(s) encore en séquence sur cette cohorte. Les chiffres vont encore monter.",
+   "active": 652,
+   "status_note": "652 contact(s) encore en séquence sur cette cohorte. Les chiffres vont encore monter.",
    "sequences": [
     "839517396"
    ],
@@ -145,11 +145,11 @@
      "audience": "Déjà clients",
      "version": "A",
      "enrolled": 1000,
-     "active": 710,
+     "active": 652,
      "avis": 109,
      "decla": 9,
-     "non_detectes": 18,
-     "docs": 136,
+     "non_detectes": 29,
+     "docs": 147,
      "status": "EN_COURS"
     }
    ]
