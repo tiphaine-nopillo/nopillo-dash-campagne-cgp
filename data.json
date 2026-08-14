@@ -1,7 +1,7 @@
 {
  "meta": {
   "campaign": "CGP · Collecte avis IRPP",
-  "generated_at": "2026-08-14T08:17:44.129237+00:00",
+  "generated_at": "2026-08-14T09:39:32.528319+00:00",
   "collected": true,
   "source": "HubSpot · appartenance aux listes statiques, intersections calculées côté portail",
   "primary_axis": "cohort",
@@ -133,8 +133,8 @@
    "id": "2026-08-08",
    "label": "Batch du 8 août 2026",
    "status": "EN_COURS",
-   "active": 723,
-   "status_note": "723 contact(s) encore en séquence sur cette cohorte. Les chiffres vont encore monter.",
+   "active": 722,
+   "status_note": "722 contact(s) encore en séquence sur cette cohorte. Les chiffres vont encore monter.",
    "sequences": [
     "839517396"
    ],
@@ -145,7 +145,7 @@
      "audience": "Déjà clients",
      "version": "A",
      "enrolled": 1000,
-     "active": 723,
+     "active": 722,
      "avis": 157,
      "decla": 13,
      "non_detectes": 36,
