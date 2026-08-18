@@ -1,7 +1,7 @@
 {
  "meta": {
   "campaign": "CGP · Collecte avis IRPP",
-  "generated_at": "2026-08-18T10:29:28.386163+00:00",
+  "generated_at": "2026-08-18T11:57:02.348392+00:00",
   "collected": true,
   "source": "HubSpot · appartenance aux listes statiques, intersections calculées côté portail",
   "primary_axis": "cohort",
@@ -36,7 +36,7 @@
  ],
  "dedup": {
   "contacts": 2230,
-  "replies": 1074,
+  "replies": 1075,
   "avis": 734,
   "decla": 71,
   "non_detectes": 117
@@ -344,8 +344,8 @@
    "id": "2026-08-08",
    "label": "Batch du 8 août 2026",
    "status": "EN_COURS",
-   "active": 656,
-   "status_note": "656 contact(s) encore en séquence sur cette cohorte. Les chiffres vont encore monter.",
+   "active": 655,
+   "status_note": "655 contact(s) encore en séquence sur cette cohorte. Les chiffres vont encore monter.",
    "sequences": [
     "839517396"
    ],
@@ -356,8 +356,8 @@
      "audience": "Déjà clients",
      "version": "A",
      "enrolled": 1000,
-     "active": 656,
-     "replies": 315,
+     "active": 655,
+     "replies": 316,
      "avis": 210,
      "decla": 20,
      "non_detectes": 30,
@@ -365,7 +365,7 @@
      "status": "EN_COURS"
     }
    ],
-   "replies": 315,
+   "replies": 316,
    "reply_curve": [
     {
      "day": 0,
@@ -419,8 +419,8 @@
     },
     {
      "day": 10,
-     "count": 315,
-     "share": 31.5
+     "count": 316,
+     "share": 31.6
     }
    ]
   }
