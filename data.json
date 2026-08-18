@@ -1,7 +1,7 @@
 {
  "meta": {
   "campaign": "CGP · Collecte avis IRPP",
-  "generated_at": "2026-08-18T16:02:29.421051+00:00",
+  "generated_at": "2026-08-18T18:00:07.552748+00:00",
   "collected": true,
   "source": "HubSpot · appartenance aux listes statiques, intersections calculées côté portail",
   "primary_axis": "cohort",
@@ -37,12 +37,12 @@
  "dedup": {
   "contacts": 2230,
   "replies": 1078,
-  "avis": 734,
+  "avis": 737,
   "decla": 71,
   "non_detectes": 117
  },
  "portfolio": {
-  "avis": 848,
+  "avis": 855,
   "decla": 96,
   "non_detectes": 141
  },
@@ -239,10 +239,10 @@
      "enrolled": 530,
      "active": 0,
      "replies": 296,
-     "avis": 212,
+     "avis": 213,
      "decla": 13,
      "non_detectes": 36,
-     "docs": 261,
+     "docs": 262,
      "status": "TERMINE"
     }
    ],
@@ -275,63 +275,63 @@
     },
     {
      "day": 5,
-     "count": 290,
-     "share": 31.59
+     "count": 289,
+     "share": 31.48
     },
     {
      "day": 6,
-     "count": 326,
-     "share": 35.51
+     "count": 324,
+     "share": 35.29
     },
     {
      "day": 7,
-     "count": 354,
-     "share": 38.56
+     "count": 352,
+     "share": 38.34
     },
     {
      "day": 8,
-     "count": 370,
-     "share": 40.31
+     "count": 368,
+     "share": 40.09
     },
     {
      "day": 9,
-     "count": 394,
-     "share": 42.92
+     "count": 392,
+     "share": 42.7
     },
     {
      "day": 10,
-     "count": 413,
-     "share": 44.99
+     "count": 411,
+     "share": 44.77
     },
     {
      "day": 11,
-     "count": 450,
-     "share": 49.02
+     "count": 448,
+     "share": 48.8
     },
     {
      "day": 12,
-     "count": 466,
-     "share": 50.76
+     "count": 464,
+     "share": 50.54
     },
     {
      "day": 13,
-     "count": 481,
-     "share": 52.4
+     "count": 478,
+     "share": 52.07
     },
     {
      "day": 14,
-     "count": 485,
-     "share": 52.83
+     "count": 482,
+     "share": 52.51
     },
     {
      "day": 15,
-     "count": 492,
-     "share": 53.59
+     "count": 489,
+     "share": 53.27
     },
     {
      "day": 16,
-     "count": 509,
-     "share": 55.45
+     "count": 506,
+     "share": 55.12
     },
     {
      "day": 17,
@@ -358,10 +358,10 @@
      "enrolled": 1000,
      "active": 654,
      "replies": 317,
-     "avis": 210,
+     "avis": 212,
      "decla": 20,
      "non_detectes": 30,
-     "docs": 260,
+     "docs": 262,
      "status": "EN_COURS"
     }
    ],
