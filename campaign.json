@@ -47,6 +47,18 @@
      "list_name": "[OPS] - CGP Campagne Avis IRPP - Déjà clients - Batch 1er Août 2026"}
    ]
   },
+  ,
+ {
+  "id": "2026-08-13",
+  "label": "Batch du 13 août 2026",
+  "status": "AUTO",
+  "sent_at": "2026-08-13T16:34:00Z",
+  "sequences": ["839517396"],
+  "cells": [
+   {"list_id": "14400", "audience": "Déjà clients", "version": null,
+    "list_name": "[OPS] - Shoot Campagnes CGP - Collecte Avis Imposition - 13 Août 2026"}
+  ]
+ }
   {
    "id": "2026-08-08",
    "label": "Batch du 8 août 2026",
