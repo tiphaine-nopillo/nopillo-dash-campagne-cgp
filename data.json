@@ -1,7 +1,7 @@
 {
  "meta": {
   "campaign": "CGP · Collecte avis IRPP",
-  "generated_at": "2026-08-20T10:52:51.339594+00:00",
+  "generated_at": "2026-08-20T12:03:14.083176+00:00",
   "collected": true,
   "source": "HubSpot · appartenance aux listes statiques, intersections calculées côté portail",
   "primary_axis": "cohort",
@@ -36,7 +36,7 @@
  ],
  "dedup": {
   "contacts": 2941,
-  "replies": 1329,
+  "replies": 1334,
   "avis": 876,
   "decla": 78,
   "non_detectes": 141
@@ -238,7 +238,7 @@
      "version": null,
      "enrolled": 530,
      "active": 0,
-     "replies": 298,
+     "replies": 299,
      "avis": 214,
      "decla": 13,
      "non_detectes": 38,
@@ -246,7 +246,7 @@
      "status": "TERMINE"
     }
    ],
-   "replies": 523,
+   "replies": 524,
    "reply_curve": [
     {
      "day": 0,
@@ -345,8 +345,8 @@
     },
     {
      "day": 19,
-     "count": 523,
-     "share": 56.97
+     "count": 524,
+     "share": 57.08
     }
    ]
   },
@@ -354,8 +354,8 @@
    "id": "2026-08-08",
    "label": "Batch du 8 août 2026",
    "status": "EN_COURS",
-   "active": 102,
-   "status_note": "102 contact(s) encore en séquence sur cette cohorte. Les chiffres vont encore monter.",
+   "active": 101,
+   "status_note": "101 contact(s) encore en séquence sur cette cohorte. Les chiffres vont encore monter.",
    "sequences": [
     "839517396"
    ],
@@ -366,8 +366,8 @@
      "audience": "Déjà clients",
      "version": "A",
      "enrolled": 1000,
-     "active": 102,
-     "replies": 390,
+     "active": 101,
+     "replies": 393,
      "avis": 243,
      "decla": 22,
      "non_detectes": 34,
@@ -375,7 +375,7 @@
      "status": "EN_COURS"
     }
    ],
-   "replies": 390,
+   "replies": 393,
    "reply_curve": [
     {
      "day": 0,
@@ -439,8 +439,8 @@
     },
     {
      "day": 12,
-     "count": 390,
-     "share": 39.0
+     "count": 393,
+     "share": 39.3
     }
    ]
   },
@@ -448,8 +448,8 @@
    "id": "2026-08-13",
    "label": "Batch du 13 août 2026",
    "status": "EN_COURS",
-   "active": 654,
-   "status_note": "654 contact(s) encore en séquence sur cette cohorte. Les chiffres vont encore monter.",
+   "active": 653,
+   "status_note": "653 contact(s) encore en séquence sur cette cohorte. Les chiffres vont encore monter.",
    "sequences": [
     "839517396"
    ],
@@ -460,8 +460,8 @@
      "audience": "Déjà clients",
      "version": null,
      "enrolled": 859,
-     "active": 654,
-     "replies": 169,
+     "active": 653,
+     "replies": 170,
      "avis": 120,
      "decla": 7,
      "non_detectes": 18,
@@ -469,7 +469,7 @@
      "status": "EN_COURS"
     }
    ],
-   "replies": 169,
+   "replies": 170,
    "reply_curve": [
     {
      "day": 0,
@@ -503,8 +503,8 @@
     },
     {
      "day": 6,
-     "count": 169,
-     "share": 19.67
+     "count": 170,
+     "share": 19.79
     }
    ]
   }
