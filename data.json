@@ -1,13 +1,13 @@
 {
  "meta": {
   "campaign": "CGP · Collecte avis IRPP",
-  "generated_at": "2026-08-19T17:55:53.031071+00:00",
+  "generated_at": "2026-08-20T08:40:16.772529+00:00",
   "collected": true,
   "source": "HubSpot · appartenance aux listes statiques, intersections calculées côté portail",
   "primary_axis": "cohort",
   "status_source": "Statut dérivé automatiquement de contact.hs_sequences_is_enrolled, par cellule. Aucune saisie manuelle.",
   "attribution_note": "Documents rattachés par intersection entre les listes de cohorte et les listes de documents reçus. Attribution par appartenance, SANS date : un « déjà client » ayant transmis son avis avant la campagne est compté. Surestimation probable sur l'audience Déjà clients.",
-  "overlap_note": "Les cohortes se chevauchent : un même contact a pu être ciblé dans plusieurs batchs. La somme des cellules dépasse l'union réelle de 105 documents, soit 9.8 %. Le niveau 1 utilise l'union dédupliquée, jamais la somme."
+  "overlap_note": "Les cohortes se chevauchent : un même contact a pu être ciblé dans plusieurs batchs. La somme des cellules dépasse l'union réelle de 106 documents, soit 9.9 %. Le niveau 1 utilise l'union dédupliquée, jamais la somme."
  },
  "kpis": [
   {
@@ -36,15 +36,15 @@
  ],
  "dedup": {
   "contacts": 2941,
-  "replies": 1296,
+  "replies": 1326,
   "avis": 854,
   "decla": 76,
-  "non_detectes": 137
+  "non_detectes": 144
  },
  "portfolio": {
   "avis": 879,
   "decla": 98,
-  "non_detectes": 148
+  "non_detectes": 155
  },
  "target": 1600,
  "target_initial": {
@@ -70,7 +70,7 @@
      "version": "A",
      "enrolled": 198,
      "active": 0,
-     "replies": 118,
+     "replies": 119,
      "avis": 84,
      "decla": 8,
      "non_detectes": 14,
@@ -92,7 +92,7 @@
      "status": "TERMINE"
     }
    ],
-   "replies": 246,
+   "replies": 247,
    "reply_curve": [
     {
      "day": 0,
@@ -224,7 +224,7 @@
      "version": "A",
      "enrolled": 388,
      "active": 0,
-     "replies": 224,
+     "replies": 225,
      "avis": 203,
      "decla": 27,
      "non_detectes": 33,
@@ -241,12 +241,12 @@
      "replies": 298,
      "avis": 214,
      "decla": 13,
-     "non_detectes": 37,
-     "docs": 264,
+     "non_detectes": 38,
+     "docs": 265,
      "status": "TERMINE"
     }
    ],
-   "replies": 522,
+   "replies": 523,
    "reply_curve": [
     {
      "day": 0,
@@ -342,6 +342,11 @@
      "day": 18,
      "count": 522,
      "share": 56.86
+    },
+    {
+     "day": 19,
+     "count": 523,
+     "share": 56.97
     }
    ]
   },
@@ -349,8 +354,8 @@
    "id": "2026-08-08",
    "label": "Batch du 8 août 2026",
    "status": "EN_COURS",
-   "active": 103,
-   "status_note": "103 contact(s) encore en séquence sur cette cohorte. Les chiffres vont encore monter.",
+   "active": 102,
+   "status_note": "102 contact(s) encore en séquence sur cette cohorte. Les chiffres vont encore monter.",
    "sequences": [
     "839517396"
    ],
@@ -361,16 +366,16 @@
      "audience": "Déjà clients",
      "version": "A",
      "enrolled": 1000,
-     "active": 103,
-     "replies": 361,
+     "active": 102,
+     "replies": 387,
      "avis": 222,
      "decla": 20,
-     "non_detectes": 32,
-     "docs": 274,
+     "non_detectes": 37,
+     "docs": 279,
      "status": "EN_COURS"
     }
    ],
-   "replies": 361,
+   "replies": 387,
    "reply_curve": [
     {
      "day": 0,
@@ -419,18 +424,23 @@
     },
     {
      "day": 9,
-     "count": 296,
-     "share": 29.6
+     "count": 294,
+     "share": 29.4
     },
     {
      "day": 10,
-     "count": 308,
-     "share": 30.8
+     "count": 304,
+     "share": 30.4
     },
     {
      "day": 11,
-     "count": 361,
-     "share": 36.1
+     "count": 380,
+     "share": 38.0
+    },
+    {
+     "day": 12,
+     "count": 387,
+     "share": 38.7
     }
    ]
   },
@@ -438,8 +448,8 @@
    "id": "2026-08-13",
    "label": "Batch du 13 août 2026",
    "status": "EN_COURS",
-   "active": 657,
-   "status_note": "657 contact(s) encore en séquence sur cette cohorte. Les chiffres vont encore monter.",
+   "active": 655,
+   "status_note": "655 contact(s) encore en séquence sur cette cohorte. Les chiffres vont encore monter.",
    "sequences": [
     "839517396"
    ],
@@ -450,16 +460,16 @@
      "audience": "Déjà clients",
      "version": null,
      "enrolled": 859,
-     "active": 657,
-     "replies": 167,
+     "active": 655,
+     "replies": 169,
      "avis": 119,
      "decla": 7,
-     "non_detectes": 16,
-     "docs": 142,
+     "non_detectes": 18,
+     "docs": 144,
      "status": "EN_COURS"
     }
    ],
-   "replies": 167,
+   "replies": 169,
    "reply_curve": [
     {
      "day": 0,
@@ -478,23 +488,23 @@
     },
     {
      "day": 3,
-     "count": 123,
-     "share": 14.32
+     "count": 122,
+     "share": 14.2
     },
     {
      "day": 4,
-     "count": 140,
-     "share": 16.3
+     "count": 139,
+     "share": 16.18
     },
     {
      "day": 5,
-     "count": 167,
-     "share": 19.44
+     "count": 165,
+     "share": 19.21
     },
     {
      "day": 6,
-     "count": 167,
-     "share": 19.44
+     "count": 169,
+     "share": 19.67
     }
    ]
   }
