@@ -1,7 +1,7 @@
 {
  "meta": {
   "campaign": "CGP · Collecte avis IRPP",
-  "generated_at": "2026-08-21T17:50:05.955274+00:00",
+  "generated_at": "2026-08-21T19:33:52.789007+00:00",
   "collected": true,
   "source": "HubSpot · appartenance aux listes statiques, intersections calculées côté portail",
   "primary_axis": "cohort",
@@ -280,73 +280,73 @@
     },
     {
      "day": 6,
-     "count": 318,
-     "share": 34.64
+     "count": 317,
+     "share": 34.53
     },
     {
      "day": 7,
-     "count": 346,
-     "share": 37.69
+     "count": 345,
+     "share": 37.58
     },
     {
      "day": 8,
-     "count": 362,
-     "share": 39.43
+     "count": 361,
+     "share": 39.32
     },
     {
      "day": 9,
-     "count": 385,
-     "share": 41.94
+     "count": 384,
+     "share": 41.83
     },
     {
      "day": 10,
-     "count": 403,
-     "share": 43.9
+     "count": 402,
+     "share": 43.79
     },
     {
      "day": 11,
-     "count": 439,
-     "share": 47.82
+     "count": 438,
+     "share": 47.71
     },
     {
      "day": 12,
-     "count": 453,
-     "share": 49.35
+     "count": 452,
+     "share": 49.24
     },
     {
      "day": 13,
-     "count": 465,
-     "share": 50.65
+     "count": 464,
+     "share": 50.54
     },
     {
      "day": 14,
-     "count": 469,
-     "share": 51.09
+     "count": 468,
+     "share": 50.98
     },
     {
      "day": 15,
-     "count": 476,
-     "share": 51.85
+     "count": 475,
+     "share": 51.74
     },
     {
      "day": 16,
-     "count": 491,
-     "share": 53.49
+     "count": 490,
+     "share": 53.38
     },
     {
      "day": 17,
-     "count": 500,
-     "share": 54.47
+     "count": 499,
+     "share": 54.36
     },
     {
      "day": 18,
-     "count": 509,
-     "share": 55.45
+     "count": 508,
+     "share": 55.34
     },
     {
      "day": 19,
-     "count": 520,
-     "share": 56.64
+     "count": 518,
+     "share": 56.43
     },
     {
      "day": 20,
@@ -518,8 +518,8 @@
     },
     {
      "day": 7,
-     "count": 182,
-     "share": 21.19
+     "count": 181,
+     "share": 21.07
     },
     {
      "day": 8,
