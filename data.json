@@ -1,7 +1,7 @@
 {
  "meta": {
   "campaign": "CGP · Collecte avis IRPP",
-  "generated_at": "2026-08-21T08:09:11.948848+00:00",
+  "generated_at": "2026-08-21T09:59:40.250139+00:00",
   "collected": true,
   "source": "HubSpot · appartenance aux listes statiques, intersections calculées côté portail",
   "primary_axis": "cohort",
@@ -36,7 +36,7 @@
  ],
  "dedup": {
   "contacts": 2941,
-  "replies": 1359,
+  "replies": 1361,
   "avis": 885,
   "decla": 79,
   "non_detectes": 146
@@ -111,98 +111,98 @@
     },
     {
      "day": 3,
-     "count": 39,
-     "share": 9.87
+     "count": 38,
+     "share": 9.62
     },
     {
      "day": 4,
-     "count": 90,
-     "share": 22.78
+     "count": 89,
+     "share": 22.53
     },
     {
      "day": 5,
-     "count": 118,
-     "share": 29.87
+     "count": 117,
+     "share": 29.62
     },
     {
      "day": 6,
-     "count": 157,
-     "share": 39.75
+     "count": 156,
+     "share": 39.49
     },
     {
      "day": 7,
-     "count": 174,
-     "share": 44.05
+     "count": 173,
+     "share": 43.8
     },
     {
      "day": 8,
-     "count": 183,
-     "share": 46.33
+     "count": 182,
+     "share": 46.08
     },
     {
      "day": 9,
-     "count": 194,
-     "share": 49.11
+     "count": 193,
+     "share": 48.86
     },
     {
      "day": 10,
-     "count": 207,
-     "share": 52.41
+     "count": 206,
+     "share": 52.15
     },
     {
      "day": 11,
-     "count": 212,
-     "share": 53.67
+     "count": 211,
+     "share": 53.42
     },
     {
      "day": 12,
-     "count": 215,
-     "share": 54.43
+     "count": 214,
+     "share": 54.18
     },
     {
      "day": 13,
-     "count": 218,
-     "share": 55.19
+     "count": 217,
+     "share": 54.94
     },
     {
      "day": 14,
+     "count": 219,
+     "share": 55.44
+    },
+    {
+     "day": 15,
      "count": 220,
      "share": 55.7
     },
     {
-     "day": 15,
-     "count": 221,
-     "share": 55.95
+     "day": 16,
+     "count": 225,
+     "share": 56.96
     },
     {
-     "day": 16,
+     "day": 17,
      "count": 226,
      "share": 57.22
     },
     {
-     "day": 17,
-     "count": 227,
-     "share": 57.47
+     "day": 18,
+     "count": 231,
+     "share": 58.48
     },
     {
-     "day": 18,
+     "day": 19,
      "count": 232,
      "share": 58.73
     },
     {
-     "day": 19,
-     "count": 233,
-     "share": 58.99
-    },
-    {
      "day": 20,
-     "count": 233,
-     "share": 58.99
+     "count": 232,
+     "share": 58.73
     },
     {
      "day": 21,
-     "count": 234,
-     "share": 59.24
+     "count": 233,
+     "share": 58.99
     }
    ]
   },
@@ -335,18 +335,18 @@
     },
     {
      "day": 17,
-     "count": 507,
-     "share": 55.23
+     "count": 505,
+     "share": 55.01
     },
     {
      "day": 18,
-     "count": 516,
-     "share": 56.21
+     "count": 514,
+     "share": 55.99
     },
     {
      "day": 19,
-     "count": 527,
-     "share": 57.41
+     "count": 525,
+     "share": 57.19
     },
     {
      "day": 20,
@@ -444,8 +444,8 @@
     },
     {
      "day": 12,
-     "count": 404,
-     "share": 40.4
+     "count": 401,
+     "share": 40.1
     },
     {
      "day": 13,
@@ -458,8 +458,8 @@
    "id": "2026-08-13",
    "label": "Batch du 13 août 2026",
    "status": "EN_COURS",
-   "active": 645,
-   "status_note": "645 contact(s) encore en séquence sur cette cohorte. Les chiffres vont encore monter.",
+   "active": 644,
+   "status_note": "644 contact(s) encore en séquence sur cette cohorte. Les chiffres vont encore monter.",
    "sequences": [
     "839517396"
    ],
@@ -470,8 +470,8 @@
      "audience": "Déjà clients",
      "version": null,
      "enrolled": 859,
-     "active": 645,
-     "replies": 178,
+     "active": 644,
+     "replies": 180,
      "avis": 122,
      "decla": 7,
      "non_detectes": 20,
@@ -479,7 +479,7 @@
      "status": "EN_COURS"
     }
    ],
-   "replies": 178,
+   "replies": 180,
    "reply_curve": [
     {
      "day": 0,
@@ -513,13 +513,13 @@
     },
     {
      "day": 6,
-     "count": 172,
-     "share": 20.02
+     "count": 170,
+     "share": 19.79
     },
     {
      "day": 7,
-     "count": 178,
-     "share": 20.72
+     "count": 180,
+     "share": 20.95
     }
    ]
   }
