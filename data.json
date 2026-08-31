@@ -1,7 +1,7 @@
 {
  "meta": {
   "campaign": "CGP · Collecte avis IRPP",
-  "generated_at": "2026-08-31T12:18:19.036824+00:00",
+  "generated_at": "2026-08-31T13:18:33.214696+00:00",
   "collected": true,
   "source": "HubSpot · appartenance aux listes statiques, intersections calculées côté portail",
   "primary_axis": "cohort",
@@ -454,48 +454,48 @@
     },
     {
      "day": 13,
-     "count": 379,
-     "share": 37.9
+     "count": 378,
+     "share": 37.8
     },
     {
      "day": 14,
-     "count": 386,
-     "share": 38.6
+     "count": 385,
+     "share": 38.5
     },
     {
      "day": 15,
-     "count": 390,
-     "share": 39.0
+     "count": 389,
+     "share": 38.9
     },
     {
      "day": 16,
-     "count": 409,
-     "share": 40.9
+     "count": 408,
+     "share": 40.8
     },
     {
      "day": 17,
-     "count": 424,
-     "share": 42.4
+     "count": 423,
+     "share": 42.3
     },
     {
      "day": 18,
-     "count": 432,
-     "share": 43.2
+     "count": 431,
+     "share": 43.1
     },
     {
      "day": 19,
-     "count": 456,
-     "share": 45.6
+     "count": 455,
+     "share": 45.5
     },
     {
      "day": 20,
-     "count": 470,
-     "share": 47.0
+     "count": 469,
+     "share": 46.9
     },
     {
      "day": 21,
-     "count": 472,
-     "share": 47.2
+     "count": 471,
+     "share": 47.1
     }
    ]
   },
