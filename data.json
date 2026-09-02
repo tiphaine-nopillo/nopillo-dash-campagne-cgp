@@ -1,7 +1,7 @@
 {
  "meta": {
   "campaign": "CGP · Collecte avis IRPP",
-  "generated_at": "2026-09-02T13:25:58.999052+00:00",
+  "generated_at": "2026-09-02T14:25:00.507867+00:00",
   "collected": true,
   "source": "HubSpot · appartenance aux listes statiques, intersections calculées côté portail",
   "primary_axis": "cohort",
@@ -36,7 +36,7 @@
  ],
  "dedup": {
   "contacts": 2941,
-  "replies": 1713,
+  "replies": 1715,
   "avis": 1036,
   "decla": 98,
   "non_detectes": 253
@@ -350,13 +350,13 @@
     },
     {
      "day": 20,
-     "count": 477,
-     "share": 51.96
+     "count": 476,
+     "share": 51.85
     },
     {
      "day": 21,
-     "count": 480,
-     "share": 52.29
+     "count": 479,
+     "share": 52.18
     }
    ]
   },
@@ -377,7 +377,7 @@
      "version": "A",
      "enrolled": 1000,
      "active": 0,
-     "replies": 484,
+     "replies": 485,
      "avis": 300,
      "decla": 28,
      "non_detectes": 65,
@@ -385,7 +385,7 @@
      "status": "TERMINE"
     }
    ],
-   "replies": 484,
+   "replies": 485,
    "reply_curve": [
     {
      "day": 0,
@@ -516,7 +516,7 @@
      "version": null,
      "enrolled": 859,
      "active": 0,
-     "replies": 429,
+     "replies": 430,
      "avis": 221,
      "decla": 18,
      "non_detectes": 106,
@@ -524,7 +524,7 @@
      "status": "TERMINE"
     }
    ],
-   "replies": 429,
+   "replies": 430,
    "reply_curve": [
     {
      "day": 0,
@@ -618,13 +618,13 @@
     },
     {
      "day": 18,
-     "count": 421,
-     "share": 49.01
+     "count": 420,
+     "share": 48.89
     },
     {
      "day": 19,
-     "count": 429,
-     "share": 49.94
+     "count": 430,
+     "share": 50.06
     }
    ]
   }
