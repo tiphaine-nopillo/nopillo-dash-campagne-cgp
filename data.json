@@ -1,7 +1,7 @@
 {
  "meta": {
   "campaign": "CGP · Collecte avis IRPP",
-  "generated_at": "2026-09-03T06:30:43.575046+00:00",
+  "generated_at": "2026-09-03T07:25:18.835736+00:00",
   "collected": true,
   "source": "HubSpot · appartenance aux listes statiques, intersections calculées côté portail",
   "primary_axis": "cohort",
@@ -36,7 +36,7 @@
  ],
  "dedup": {
   "contacts": 2941,
-  "replies": 1719,
+  "replies": 1720,
   "avis": 1038,
   "decla": 98,
   "non_detectes": 253
@@ -377,7 +377,7 @@
      "version": "A",
      "enrolled": 1000,
      "active": 0,
-     "replies": 487,
+     "replies": 488,
      "avis": 302,
      "decla": 28,
      "non_detectes": 65,
@@ -385,7 +385,7 @@
      "status": "TERMINE"
     }
    ],
-   "replies": 487,
+   "replies": 488,
    "reply_curve": [
     {
      "day": 0,
