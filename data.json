@@ -1,7 +1,7 @@
 {
  "meta": {
   "campaign": "CGP · Collecte avis IRPP",
-  "generated_at": "2026-09-08T06:30:22.149933+00:00",
+  "generated_at": "2026-09-08T07:25:51.325981+00:00",
   "collected": true,
   "source": "HubSpot · appartenance aux listes statiques, intersections calculées côté portail",
   "primary_axis": "cohort",
@@ -295,68 +295,68 @@
     },
     {
      "day": 9,
-     "count": 350,
-     "share": 38.13
+     "count": 349,
+     "share": 38.02
     },
     {
      "day": 10,
-     "count": 366,
-     "share": 39.87
+     "count": 365,
+     "share": 39.76
     },
     {
      "day": 11,
-     "count": 399,
-     "share": 43.46
+     "count": 398,
+     "share": 43.36
     },
     {
      "day": 12,
-     "count": 412,
-     "share": 44.88
+     "count": 411,
+     "share": 44.77
     },
     {
      "day": 13,
-     "count": 422,
-     "share": 45.97
+     "count": 421,
+     "share": 45.86
     },
     {
      "day": 14,
-     "count": 424,
-     "share": 46.19
+     "count": 423,
+     "share": 46.08
     },
     {
      "day": 15,
-     "count": 429,
-     "share": 46.73
+     "count": 428,
+     "share": 46.62
     },
     {
      "day": 16,
-     "count": 441,
-     "share": 48.04
+     "count": 440,
+     "share": 47.93
     },
     {
      "day": 17,
-     "count": 449,
-     "share": 48.91
+     "count": 448,
+     "share": 48.8
     },
     {
      "day": 18,
-     "count": 457,
-     "share": 49.78
+     "count": 456,
+     "share": 49.67
     },
     {
      "day": 19,
-     "count": 465,
-     "share": 50.65
+     "count": 464,
+     "share": 50.54
     },
     {
      "day": 20,
-     "count": 472,
-     "share": 51.42
+     "count": 471,
+     "share": 51.31
     },
     {
      "day": 21,
-     "count": 475,
-     "share": 51.74
+     "count": 474,
+     "share": 51.63
     }
    ]
   },
@@ -389,113 +389,113 @@
    "reply_curve": [
     {
      "day": 0,
-     "count": 46,
-     "share": 4.6
+     "count": 45,
+     "share": 4.5
     },
     {
      "day": 1,
-     "count": 65,
-     "share": 6.5
+     "count": 64,
+     "share": 6.4
     },
     {
      "day": 2,
-     "count": 86,
-     "share": 8.6
+     "count": 85,
+     "share": 8.5
     },
     {
      "day": 3,
-     "count": 102,
-     "share": 10.2
+     "count": 101,
+     "share": 10.1
     },
     {
      "day": 4,
-     "count": 164,
-     "share": 16.4
+     "count": 163,
+     "share": 16.3
     },
     {
      "day": 5,
-     "count": 206,
-     "share": 20.6
+     "count": 205,
+     "share": 20.5
     },
     {
      "day": 6,
-     "count": 227,
-     "share": 22.7
+     "count": 226,
+     "share": 22.6
     },
     {
      "day": 7,
-     "count": 236,
-     "share": 23.6
+     "count": 235,
+     "share": 23.5
     },
     {
      "day": 8,
-     "count": 241,
-     "share": 24.1
+     "count": 240,
+     "share": 24.0
     },
     {
      "day": 9,
-     "count": 260,
-     "share": 26.0
+     "count": 259,
+     "share": 25.9
     },
     {
      "day": 10,
-     "count": 269,
-     "share": 26.9
+     "count": 268,
+     "share": 26.8
     },
     {
      "day": 11,
-     "count": 323,
-     "share": 32.3
+     "count": 322,
+     "share": 32.2
     },
     {
      "day": 12,
-     "count": 342,
-     "share": 34.2
+     "count": 341,
+     "share": 34.1
     },
     {
      "day": 13,
-     "count": 360,
-     "share": 36.0
+     "count": 359,
+     "share": 35.9
     },
     {
      "day": 14,
-     "count": 367,
-     "share": 36.7
+     "count": 366,
+     "share": 36.6
     },
     {
      "day": 15,
-     "count": 371,
-     "share": 37.1
+     "count": 370,
+     "share": 37.0
     },
     {
      "day": 16,
-     "count": 389,
-     "share": 38.9
+     "count": 388,
+     "share": 38.8
     },
     {
      "day": 17,
-     "count": 404,
-     "share": 40.4
+     "count": 403,
+     "share": 40.3
     },
     {
      "day": 18,
-     "count": 412,
-     "share": 41.2
+     "count": 411,
+     "share": 41.1
     },
     {
      "day": 19,
-     "count": 434,
-     "share": 43.4
+     "count": 433,
+     "share": 43.3
     },
     {
      "day": 20,
-     "count": 447,
-     "share": 44.7
+     "count": 446,
+     "share": 44.6
     },
     {
      "day": 21,
-     "count": 449,
-     "share": 44.9
+     "count": 448,
+     "share": 44.8
     }
    ]
   },
