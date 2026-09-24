@@ -1,7 +1,7 @@
 {
  "meta": {
   "campaign": "CGP · Collecte avis IRPP",
-  "generated_at": "2026-09-24T11:40:48.448853+00:00",
+  "generated_at": "2026-09-24T17:07:24.332213+00:00",
   "collected": true,
   "source": "HubSpot · appartenance aux listes statiques, intersections calculées côté portail",
   "primary_axis": "cohort",
@@ -36,7 +36,7 @@
  ],
  "dedup": {
   "contacts": 2941,
-  "replies": 1771,
+  "replies": 1773,
   "avis": 1050,
   "decla": 101,
   "non_detectes": 264
@@ -377,7 +377,7 @@
      "version": "A",
      "enrolled": 1000,
      "active": 0,
-     "replies": 502,
+     "replies": 503,
      "avis": 306,
      "decla": 30,
      "non_detectes": 69,
@@ -385,7 +385,7 @@
      "status": "TERMINE"
     }
    ],
-   "replies": 502,
+   "replies": 503,
    "reply_curve": [
     {
      "day": 0,
@@ -454,48 +454,48 @@
     },
     {
      "day": 13,
-     "count": 339,
-     "share": 33.9
+     "count": 338,
+     "share": 33.8
     },
     {
      "day": 14,
-     "count": 346,
-     "share": 34.6
+     "count": 345,
+     "share": 34.5
     },
     {
      "day": 15,
-     "count": 350,
-     "share": 35.0
+     "count": 349,
+     "share": 34.9
     },
     {
      "day": 16,
-     "count": 367,
-     "share": 36.7
+     "count": 366,
+     "share": 36.6
     },
     {
      "day": 17,
-     "count": 382,
-     "share": 38.2
+     "count": 381,
+     "share": 38.1
     },
     {
      "day": 18,
-     "count": 390,
-     "share": 39.0
+     "count": 389,
+     "share": 38.9
     },
     {
      "day": 19,
-     "count": 410,
-     "share": 41.0
+     "count": 409,
+     "share": 40.9
     },
     {
      "day": 20,
-     "count": 422,
-     "share": 42.2
+     "count": 421,
+     "share": 42.1
     },
     {
      "day": 21,
-     "count": 424,
-     "share": 42.4
+     "count": 423,
+     "share": 42.3
     }
    ]
   },
@@ -516,7 +516,7 @@
      "version": null,
      "enrolled": 859,
      "active": 0,
-     "replies": 454,
+     "replies": 455,
      "avis": 229,
      "decla": 20,
      "non_detectes": 111,
@@ -524,7 +524,7 @@
      "status": "TERMINE"
     }
    ],
-   "replies": 454,
+   "replies": 455,
    "reply_curve": [
     {
      "day": 0,
