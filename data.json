@@ -1,7 +1,7 @@
 {
  "meta": {
   "campaign": "CGP · Collecte avis IRPP",
-  "generated_at": "2026-10-07T19:21:52.428007+00:00",
+  "generated_at": "2026-10-08T13:23:28.373196+00:00",
   "collected": true,
   "source": "HubSpot · appartenance aux listes statiques, intersections calculées côté portail",
   "primary_axis": "cohort",
@@ -36,7 +36,7 @@
  ],
  "dedup": {
   "contacts": 2941,
-  "replies": 1805,
+  "replies": 1806,
   "avis": 1050,
   "decla": 101,
   "non_detectes": 270
@@ -377,7 +377,7 @@
      "version": "A",
      "enrolled": 1000,
      "active": 0,
-     "replies": 512,
+     "replies": 513,
      "avis": 306,
      "decla": 30,
      "non_detectes": 69,
@@ -385,7 +385,7 @@
      "status": "TERMINE"
     }
    ],
-   "replies": 512,
+   "replies": 513,
    "reply_curve": [
     {
      "day": 0,
@@ -429,73 +429,73 @@
     },
     {
      "day": 8,
-     "count": 210,
-     "share": 21.0
+     "count": 209,
+     "share": 20.9
     },
     {
      "day": 9,
-     "count": 228,
-     "share": 22.8
+     "count": 227,
+     "share": 22.7
     },
     {
      "day": 10,
-     "count": 237,
-     "share": 23.7
+     "count": 236,
+     "share": 23.6
     },
     {
      "day": 11,
-     "count": 288,
-     "share": 28.8
+     "count": 287,
+     "share": 28.7
     },
     {
      "day": 12,
-     "count": 306,
-     "share": 30.6
+     "count": 305,
+     "share": 30.5
     },
     {
      "day": 13,
-     "count": 323,
-     "share": 32.3
+     "count": 322,
+     "share": 32.2
     },
     {
      "day": 14,
-     "count": 330,
-     "share": 33.0
+     "count": 329,
+     "share": 32.9
     },
     {
      "day": 15,
-     "count": 334,
-     "share": 33.4
+     "count": 333,
+     "share": 33.3
     },
     {
      "day": 16,
-     "count": 350,
-     "share": 35.0
+     "count": 348,
+     "share": 34.8
     },
     {
      "day": 17,
-     "count": 364,
-     "share": 36.4
+     "count": 362,
+     "share": 36.2
     },
     {
      "day": 18,
-     "count": 372,
-     "share": 37.2
+     "count": 370,
+     "share": 37.0
     },
     {
      "day": 19,
-     "count": 392,
-     "share": 39.2
+     "count": 390,
+     "share": 39.0
     },
     {
      "day": 20,
-     "count": 404,
-     "share": 40.4
+     "count": 402,
+     "share": 40.2
     },
     {
      "day": 21,
-     "count": 406,
-     "share": 40.6
+     "count": 404,
+     "share": 40.4
     }
    ]
   },
@@ -588,53 +588,53 @@
     },
     {
      "day": 12,
-     "count": 252,
-     "share": 29.34
+     "count": 251,
+     "share": 29.22
     },
     {
      "day": 13,
-     "count": 305,
-     "share": 35.51
+     "count": 303,
+     "share": 35.27
     },
     {
      "day": 14,
-     "count": 351,
-     "share": 40.86
+     "count": 349,
+     "share": 40.63
     },
     {
      "day": 15,
+     "count": 356,
+     "share": 41.44
+    },
+    {
+     "day": 16,
      "count": 358,
      "share": 41.68
     },
     {
-     "day": 16,
-     "count": 360,
-     "share": 41.91
-    },
-    {
      "day": 17,
-     "count": 368,
-     "share": 42.84
+     "count": 366,
+     "share": 42.61
     },
     {
      "day": 18,
-     "count": 376,
-     "share": 43.77
+     "count": 374,
+     "share": 43.54
     },
     {
      "day": 19,
-     "count": 384,
-     "share": 44.7
+     "count": 382,
+     "share": 44.47
     },
     {
      "day": 20,
-     "count": 389,
-     "share": 45.29
+     "count": 387,
+     "share": 45.05
     },
     {
      "day": 21,
-     "count": 394,
-     "share": 45.87
+     "count": 392,
+     "share": 45.63
     }
    ]
   }
